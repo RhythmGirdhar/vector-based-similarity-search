@@ -1,0 +1,52 @@
+[
+    {
+        "Genre": "Rock",
+        "SongTitle": "Hotel California",
+        "Artist": "Eagles"
+    },
+    {
+        "Genre": "Pop",
+        "SongTitle": "As It Was",
+        "Artist": "Harry Styles"
+    },
+    {
+        "Genre": "Indie Folk",
+        "SongTitle": "Fourth of July",
+        "Artist": "Sufjan Stevens"
+    },
+    {
+        "Genre": "Folk",
+        "SongTitle": "Death with Dignity",
+        "Artist": "Sufjan Stevens"
+    },
+    {
+        "Genre": "Metal",
+        "SongTitle": "Dance of Death",
+        "Artist": "Iron Maiden"
+    },
+    {
+        "Genre": "Sitar Rock",
+        "SongTitle": "Paint it Red",
+        "Artist": "The Rolling Stones"
+    },
+    {
+        "Genre": "Hard Rock",
+        "SongTitle": "Bohemian Rhapsody",
+        "Artist": "Queen"
+    },
+    {
+        "Genre": "Progressive Rock",
+        "SongTitle": "We Eill Rock You",
+        "Artist": "Queen"
+    },
+    {
+        "Genre": "Heavy Metal",
+        "SongTitle": "Highway Star",
+        "Artist": "Deep Purple"
+    },
+    {
+        "Genre": "Alternative/Indie",
+        "SongTitle": "Sweater Weather",
+        "Artist": "The Neighbourhood"
+    }
+  ]
